@@ -74,7 +74,7 @@ Train support teams to upsell retention-related services during at-risk customer
 7. Deliverables
 The project includes the following files:
 
-📑 Report: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/REPORT.docx – Formal written report.
+📑 Report: https://github.com/tanuja058/TELCO-CHURN-ANALYSIS/blob/main/REPORT.pdf– Formal written report.
 🗂 Raw Data: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/RAW%20DATA.xlsx
 📝 SQL Queries: Not all queries are uploaded.
 📊 Power BI Dashboard: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/DASHBOARDS.pbix
