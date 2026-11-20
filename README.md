@@ -3,7 +3,6 @@
 This project analyzes customer churn for a telecom company using SQL Server, Power BI, and Excel. The dataset consists of 7,043 customers with detailed demographic, service usage, billing, and churn information.
 
 The primary objectives of this analysis are:
-
 To identify patterns that differentiate churned customers from retained customers.
 To understand the main drivers of churn.
 To recommend strategies that can help reduce churn and improve retention.
