@@ -77,7 +77,7 @@ The project includes the following files:
 📑 Report: https://github.com/tanuja058/TELCO-CHURN-ANALYSIS/blob/main/REPORT.pdf– Formal written report.
 🗂 Raw Data: https://github.com/tanuja058/TELCO-CHURN-ANALYSIS/blob/main/customerchurn_raw.xlsx
 📝 SQL Queries: Not all queries are uploaded.
-📊 Power BI Dashboard: https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/DASHBOARDS.pbix
+📊 Power BI Dashboard: https://github.com/tanuja058/TELCO-CHURN-ANALYSIS/blob/main/DASHBOARDS.pbix
 🖼 Dashboard Previews
 1️⃣ Overall Customer Dashboard
 https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/CUSTOMER%20DASHBOARD.png
