@@ -83,7 +83,7 @@ The project includes the following files:
 https://github.com/tanuja058/TELCO-CHURN-ANALYSIS/blob/main/CHURNED%20CUSTOMER.png
 
 2️⃣ Churned Customers Dashboard
-https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/CHURNED%20CUSTOMER.png
+https://github.com/tanuja058/TELCO-CHURN-ANALYSIS/blob/main/CUSTOMER%20DASHBOARD.png
 
 8. Conclusion
 This project highlights that 26.5% of customers churn, with churn concentrated among Fiber Optic internet users and Electronic Check payers.
