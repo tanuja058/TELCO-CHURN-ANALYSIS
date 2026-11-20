@@ -80,7 +80,7 @@ The project includes the following files:
 📊 Power BI Dashboard: https://github.com/tanuja058/TELCO-CHURN-ANALYSIS/blob/main/DASHBOARDS.pbix
 🖼 Dashboard Previews
 1️⃣ Overall Customer Dashboard
-https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/CUSTOMER%20DASHBOARD.png
+https://github.com/tanuja058/TELCO-CHURN-ANALYSIS/blob/main/CHURNED%20CUSTOMER.png
 
 2️⃣ Churned Customers Dashboard
 https://github.com/ANUPRIYAROYANU/TELCO-CHURN-ANALYSIS/blob/main/CHURNED%20CUSTOMER.png
